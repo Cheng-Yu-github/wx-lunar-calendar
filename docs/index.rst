@@ -9,3 +9,7 @@ version 1.0.0
 version 2.0.0
 -------------
 * Add the basic functionalities
+
+version 2.0.1
+-------------
+* Fix minor bugs in UI style
