@@ -22,3 +22,7 @@ version 4.0.0
 -------------
 * Add even more functionalities
 * Update reference packages
+
+version 4.0.1
+-------------
+* A hotfix
