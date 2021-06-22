@@ -13,3 +13,7 @@ version 2.0.0
 version 2.0.1
 -------------
 * Fix minor bugs in UI style
+
+version 3.0.0
+-------------
+* Add more functionalities
