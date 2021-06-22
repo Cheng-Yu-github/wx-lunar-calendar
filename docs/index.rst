@@ -17,3 +17,8 @@ version 2.0.1
 version 3.0.0
 -------------
 * Add more functionalities
+
+version 4.0.0
+-------------
+* Add even more functionalities
+* Update reference packages
